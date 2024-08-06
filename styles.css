@@ -24,3 +24,8 @@ p {
   text-align: center;
   font-weight: bold;
 }
+
+.baseClassLook {
+  background-color: rgb(rgb(248, 152, 192), green, blue);
+  text-decoration: dashed;
+}
