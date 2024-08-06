@@ -46,3 +46,11 @@ p {
   font-size: 24px;
 }
 
+.pinkBack {
+  background-color: pink;
+}
+.links  {
+ text-decoration: none;
+ font:status-bar;
+ font-weight: bold;
+}
