@@ -25,7 +25,24 @@ p {
   font-weight: bold;
 }
 
-.baseClassLook {
-  background-color: rgb(rgb(248, 152, 192), green, blue);
-  text-decoration: dashed;
+.standardClassLook {
+  background-color: rgb(221, 148, 173);
+  font-size: 20px;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.largerClassLook {
+  background-color: rgb(221, 148, 173);
+  font-size: 24px;
+}
+
+#numberTwo {
+  color:blue;
+  font-size: 36px;
+}
+
+#numberFour {
+  background-color: rgb(2, 255, 36);
+  font-size: 24px;
+}
+
